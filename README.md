@@ -1,1 +1,1 @@
-# firstWebAppXAMP Topic 6. Knowing the Framework
+# Activity 6
